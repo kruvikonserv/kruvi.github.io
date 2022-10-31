@@ -1,2 +1,2 @@
-# homework
-Sissejuhatus infotehnoloogiasse
+# Sissejuhatus infotehnoloogiasse
+https://kruvikonserv.github.io/
