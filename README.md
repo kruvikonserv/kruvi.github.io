@@ -1,2 +1,2 @@
 # Sissejuhatus infotehnoloogiasse
-https://kruvikonserv.github.io/
+https://kruvi.github.io/
